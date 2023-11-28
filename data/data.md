@@ -36,5 +36,3 @@ For our text-only strong baseline we used `label_text` as the label, and for all
 | Train | 13608 | 70.826 | 61.295 |
 | Dev | 2237 | 72.061 | 62.897 |
 | Test | 2237 | 72.061 | 61.377 |
-
- 
